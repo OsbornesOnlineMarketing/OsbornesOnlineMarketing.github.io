@@ -3,7 +3,7 @@ title: Osborne's Online Marketing
 email: osbornes.online.marketing@gmail.com
 url: https://osbornesonlinemarketing.github.io/
 description: "Fast and efficient growth for small businesses, driven by SEO and Online Marketing techniques"
-keywords: "your keywords, separated by commas"
+keywords: "Search Engine Optimisation, SEO, Online Marketing, Marketing, Small Business, optimisation"
 skills: "Web Developer - SEO Expert - Online Marketing Consultant"
 meta_author: Osborne Tomas
 
@@ -33,7 +33,7 @@ color:
 # Footer settings
 footer:
   copyright: Dr. Henry Jekyll
-  location: Location
+  location: Kent, United Kingdom.
   social: Around the Web
   credits: Credits
 
@@ -52,11 +52,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
-
-# Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+  - line: 
+  - line: 
 
 # Build settings
 markdown: kramdown
