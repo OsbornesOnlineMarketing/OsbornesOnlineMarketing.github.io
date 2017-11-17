@@ -8,7 +8,7 @@ skills: "Web Developer - SEO Expert - Online Marketing Consultant"
 meta_author: Osborne Tomas
 
 # Google webmaster tools
-google_verify:
+google_verify: https://osbornesonlinemarketing.github.io/googled7dd9569d013dcce.html
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Tomas Osborne.
   location: Kent, United Kingdom.
   social: Around the Web
   credits: Credits
