@@ -7,6 +7,9 @@ keywords: "Search Engine Optimisation, SEO, Online Marketing, Marketing, Small B
 skills: "Web Developer - SEO Expert - Online Marketing Consultant"
 meta_author: Osborne Tomas
 
+plugins:
+  - jekyll-seo-tag
+
 # Google webmaster tools
 google_verify: https://osbornesonlinemarketing.github.io/googled7dd9569d013dcce.html
 
